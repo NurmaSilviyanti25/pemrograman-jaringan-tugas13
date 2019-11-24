@@ -1,0 +1,14 @@
+Disini saya memasukkan tugas 1 dan tugas 2 di dalam folder pemograman-jaringan-tugas13 karena tugas 1 dan 2 setiap code merupakan sebuah project bukan sebuah class
+
+Tugas 1
+ - Project ServerTugas1
+ - Project ClientTugas1
+
+Tugas 2
+ -Project ServerTugas2
+ -Project ClientTugas2
+
+Tugas 3
+didalam src pemograman-jaringan-tugas13
+
+--Laporan juga saya simpan di dalam folder ini
